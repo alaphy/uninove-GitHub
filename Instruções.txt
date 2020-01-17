@@ -1,0 +1,5 @@
+1 - para cadastrar um novo nome clicar no botão Novo Cadastro ira abrir uma nova tela digite o nome e clique em salvar.
+
+2 - para alterar clique no nome da lista ira abrir uma nova tela com o nome que clicou para alterar apos alterar clique em alterar.
+
+3 - para excluir um nome da lista basta manter o clique selecionado ira aparecer uma opção Deletar Registro basta clicar na opção que o nome sera excluido da lista.
